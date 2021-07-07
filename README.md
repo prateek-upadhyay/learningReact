@@ -8,6 +8,7 @@ A simple app to write anything on the board. The notes will be saved to localSto
 
 Use it for:
 
+
 - To-do lists
 - Grocery lists
 - Reading lists
